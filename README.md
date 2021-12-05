@@ -4,7 +4,7 @@ BERTモデルのファインチューニングで固有表現抽出用タスク�
 
 ## Based on Kyoto
 `bert-japanese-ner-finetuning-kyoto.ipynb` は京都大学のBERTモデルをベースにファインチューニングを実行するものです  
-詳細は[こちら]*(https://zenn.dev/ken_11/articles/ca61812791c4d9)
+詳細は[こちら](https://zenn.dev/ken_11/articles/ca61812791c4d9)
 
 ## Based on Tohoku
 `bert-japanese-ner-finetuning-tohoku.ipynb` は東北大学のBERTモデルをベースにファインチューニングを実行するものです  
